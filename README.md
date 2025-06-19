@@ -6,7 +6,7 @@
 
 Professional database solution, customized for cafe and restaurant scenarios. Provides complete menu management, order processing and employee authority control system to optimize catering business operation efficiency.
 
-## ✨ Core Function Highlights
+## Core Function Highlights
 
 - ​**Multi-type order processing**​: Seamless support for inheritance management of dine-in/takeout/delivery orders
 
@@ -18,7 +18,7 @@ Professional database solution, customized for cafe and restaurant scenarios. Pr
 
 - ​**Three-tier classification system**​: Flexible and scalable menu classification structure
 
-## ⚙️ Technical architecture
+## Technical architecture
 
 ```mermaid
 erDiagram
